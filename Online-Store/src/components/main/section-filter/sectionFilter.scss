@@ -1,0 +1,164 @@
+.filters {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    padding-bottom: 15px;
+    margin: 0 10px;
+    transition: 1s;
+}
+.filters_container {
+    border: 2px solid;
+    border-radius: 10px;
+    width: 30%;
+    padding: 10px 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+    transition: 1s;
+}
+.filters__title {
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+.filters__company {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 6px;
+}
+.companies {
+    display: flex;
+    gap: 7px;
+}
+.img-company {
+    width: 34px;
+    height: 23px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.nike {
+    width: 40px;
+}
+.active-company {
+    background-color: bisque;
+}
+.filters__spikes {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 6px;
+}
+.spikes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+}
+.spikes-count {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 25px;
+    height: 25px;
+}
+.active-spike {
+    background-color: bisque;
+    border-radius: 5px;
+}
+.filters__color {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding-bottom: 6px;
+}
+.colors {
+    display: flex;
+    gap: 7px;
+}
+.color-background {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    width: 24px;
+    height: 24px;
+    border: 1px solid;
+    cursor: pointer;
+}
+
+.white {
+    background: white;
+}
+.red {
+    background: red;
+}
+.black {
+    background: black;
+}
+.yellow {
+    background: yellow;
+}
+.img-color {
+    pointer-events: none;
+    display: none;
+    width: 20px;
+    height: 20px;
+}
+.no-product {
+    display: none;
+    font-size: 45px;
+    text-align: center;
+    margin: 100px 0;
+}
+.check-mark-popular {
+    pointer-events: none;
+    display: none;
+    width: 20px;
+    height: 20px;
+}
+.popular {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 25px;
+    height: 25px;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: floralwhite;
+}
+.filters__popular {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.reset-buttons{
+    padding-top: 14px;
+    display: flex;
+    gap: 15px;
+}
+.button{
+    padding: 5px;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: floralwhite;
+}
+
+@media screen and (max-width: 1200px){
+    .filters_container{
+        width: 33%;
+    }
+}
+@media screen and (max-width: 1080px){
+    .filters{
+        flex-direction: column;
+    }
+    .filters_container{
+        width: 100%;
+    }
+    .no-product{
+        font-size: 35px;
+    }
+}

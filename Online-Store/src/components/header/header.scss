@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    border-bottom: solid 2px;
+}
+.header__start-logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+.header__logo {
+    background-image: url(../../assets/img/bootsLogo.png);
+    background-size: contain;
+    width: 100px;
+    height: 75px;
+}
+.header__title {
+    font-weight: bold;
+    font-size: 30px;
+}
+.header__shopping-cart {
+    background-image: url(../../assets/img/shoppingСart.png);
+    background-size: contain;
+    width: 76px;
+    height: 75px;
+    position: relative;
+}
+.purchases {
+    color: #fff;
+    background: red;
+    display: inline-block;
+    padding: 4px 9px;
+    border-radius: 50px;
+    position: absolute;
+    top: 20px;
+    left: 6px;
+    font-weight: 600;
+    font-size: 16px;
+}

@@ -1,0 +1,242 @@
+[
+    {
+        "company": "adidas",
+        "name": "adidas Copa 20.1",
+        "image": "https://www.footballbootsdb.com/logos/boots/2020/10/5f9710bf50023.jpg?t=webp",
+        "price": 180,
+        "amount": 5,
+        "numberOfSpikes": 12,
+        "popular": "нет",
+        "color": "чёрный"
+    },
+    {
+        "company": "adidas",
+        "name": "Adidas Copa Sense.1",
+        "image": "https://www.footballbootsdb.com/logos/boots/2022/04/6255c48fbdd80.jpg?t=webp",
+        "price": 180,
+        "amount": 7,
+        "numberOfSpikes": 12,
+        "popular": "нет",
+        "color": "белый"
+    },
+    {
+        "company": "adidas",
+        "name": "adidas X Ghosted.1",
+        "image": "https://www.footballbootsdb.com/logos/boots/2021/04/60817cf1ec9fd.jpg?t=webp",
+        "price": 210,
+        "amount": 3,
+        "numberOfSpikes": 13,
+        "popular": "да",
+        "color": "красный"
+    },
+    {
+        "company": "adidas",
+        "name": "adidas Copa Mundial",
+        "image": "https://www.footballbootsdb.com/logos/boots/37/3.jpg?t=webp",
+        "price": 180,
+        "amount": 10,
+        "numberOfSpikes": 13,
+        "popular": "да",
+        "color": "чёрный"
+    },
+    {
+        "company": "adidas",
+        "name": "adidas X 15+ Primeknit",
+        "image": "https://www.footballbootsdb.com/logos/boots/138/3.jpg?t=webp",
+        "price": 200,
+        "amount": 5,
+        "numberOfSpikes": 13,
+        "popular": "нет",
+        "color": "жёлтый"
+    },
+    {
+        "company": "adidas",
+        "name": "adidas X 18.1",
+        "image": "https://www.footballbootsdb.com/logos/boots/253/3.jpg?t=webp",
+        "price": 200,
+        "amount": 10,
+        "numberOfSpikes": 12,
+        "popular": "да",
+        "color": "белый"
+    },
+    {
+        "company": "adidas",
+        "name": "adidas F50 Adizero 2015",
+        "image": "https://www.footballbootsdb.com/logos/boots/2/3.jpg?t=webp",
+        "price": 180,
+        "amount": 4,
+        "numberOfSpikes": 12,
+        "popular": "нет",
+        "color": "красный"
+    },
+    {
+        "company": "adidas",
+        "name": "adidas F50 Adizero Messi",
+        "image": "https://www.footballbootsdb.com/logos/boots/41/3.jpg?t=webp",
+        "price": 190,
+        "amount": 2,
+        "numberOfSpikes": 13,
+        "popular": "нет",
+        "color": "жёлтый"
+    },
+    {
+        "company": "nike",
+        "name": "Nike Phantom GT2 Elite",
+        "image": "https://www.footballbootsdb.com/logos/boots/2022/03/622fbe24a4071.jpg?t=webp",
+        "price": 230,
+        "amount": 7,
+        "numberOfSpikes": 13,
+        "popular": "нет",
+        "color": "жёлтый"
+    },
+    {
+        "company": "nike",
+        "name": "Nike Tiempo Legend 9 Elite",
+        "image": "https://www.footballbootsdb.com/logos/boots/2022/04/6266cac4820af.jpg?t=webp",
+        "price": 220,
+        "amount": 4,
+        "numberOfSpikes": 13,
+        "popular": "нет",
+        "color": "красный"
+    },
+    {
+        "company": "nike",
+        "name": "Nike Mercurial Vapor XIII Elite",
+        "image": "https://www.footballbootsdb.com/logos/boots/2020/08/5f3183e7aedb3.jpg?t=webp",
+        "price": 250,
+        "amount": 8,
+        "numberOfSpikes": 12,
+        "popular": "да",
+        "color": "жёлтый"
+    },
+    {
+        "company": "nike",
+        "name": "Nike Magista Opus II",
+        "image": "https://www.footballbootsdb.com/logos/boots/183/3.jpg?t=webp",
+        "price": 190,
+        "amount": 5,
+        "numberOfSpikes": 12,
+        "popular": "нет",
+        "color": "белый"
+    },
+    {
+        "company": "nike",
+        "name": "Nike CTR360 Maestri",
+        "image": "https://www.footballbootsdb.com/logos/boots/45/3.jpg?t=webp",
+        "price": 200,
+        "amount": 6,
+        "numberOfSpikes": 13,
+        "popular": "нет",
+        "color": "красный"
+    },
+    {
+        "company": "nike",
+        "name": "Nike Mercurial Vapor X",
+        "image": "https://www.footballbootsdb.com/logos/boots/47/3.jpg?t=webp",
+        "price": 180,
+        "amount": 3,
+        "numberOfSpikes": 13,
+        "popular": "нет",
+        "color": "белый"
+    },
+    {
+        "company": "nike",
+        "name": "Nike Tiempo Legend V",
+        "image": "https://www.footballbootsdb.com/logos/boots/8/3.jpg?t=webp",
+        "price": 200,
+        "amount": 9,
+        "numberOfSpikes": 12,
+        "popular": "нет",
+        "color": "чёрный"
+    },
+    {
+        "company": "nike",
+        "name": "Nike Mercurial Vapor XIII Tech",
+        "image": "https://www.footballbootsdb.com/logos/boots/2020/10/5f799b39bf1d2.jpg?t=webp",
+        "price": 220,
+        "amount": 4,
+        "numberOfSpikes": 13,
+        "popular": "да",
+        "color": "чёрный"
+    },
+    {
+        "company": "puma",
+        "name": "Puma Ultra 1.1",
+        "image": "https://www.footballbootsdb.com/logos/boots/2020/09/5f68d1cca78fd.jpg?t=webp",
+        "price": 210,
+        "amount": 4,
+        "numberOfSpikes": 12,
+        "popular": "нет",
+        "color": "красный"
+    },
+    {
+        "company": "puma",
+        "name": "Puma Future Z 1.1",
+        "image": "https://www.footballbootsdb.com/logos/boots/2021/04/6071aa7b11b64.jpg?t=webp",
+        "price": 230,
+        "amount": 7,
+        "numberOfSpikes": 12,
+        "popular": "нет",
+        "color": "белый"
+    },
+    {
+        "company": "puma",
+        "name": "Puma ONE 20.1",
+        "image": "https://www.footballbootsdb.com/logos/boots/2020/06/5edd028d896ce.jpg?t=webp",
+        "price": 220,
+        "amount": 1,
+        "numberOfSpikes": 12,
+        "popular": "нет",
+        "color": "красный"
+    },
+    {
+        "company": "puma",
+        "name": "Puma evoSPEED 17 SL-S",
+        "image": "https://www.footballbootsdb.com/logos/boots/193/3.jpg?t=webp",
+        "price": 230,
+        "amount": 3,
+        "numberOfSpikes": 12,
+        "popular": "да",
+        "color": "жёлтый"
+    },
+    {
+        "company": "puma",
+        "name": "Puma Ultra 1.2 Lazertouch",
+        "image": "https://www.footballbootsdb.com/logos/boots/2021/02/6030de92751d3.jpg?t=webp",
+        "price": 240,
+        "amount": 8,
+        "numberOfSpikes": 12,
+        "popular": "нет",
+        "color": "чёрный"
+    },
+    {
+        "company": "puma",
+        "name": "Puma evoPOWER Vigor 1",
+        "image": "https://www.footballbootsdb.com/logos/boots/194/3.jpg?t=webp",
+        "price": 220,
+        "amount": 1,
+        "numberOfSpikes": 12,
+        "popular": "нет",
+        "color": "жёлтый"
+    },
+    {
+        "company": "puma",
+        "name": "Puma King Top K",
+        "image": "https://www.footballbootsdb.com/logos/boots/82/3.jpg?t=webp",
+        "price": 180,
+        "amount": 10,
+        "numberOfSpikes": 12,
+        "popular": "да",
+        "color": "чёрный"
+    },
+    {
+        "company": "puma",
+        "name": "Puma evoSPEED SL II Leather",
+        "image": "https://www.footballbootsdb.com/logos/boots/2019/08/5d6810476d832.jpg?t=webp",
+        "price": 240,
+        "amount": 4,
+        "numberOfSpikes": 11,
+        "popular": "нет",
+        "color": "белый"
+    }
+]

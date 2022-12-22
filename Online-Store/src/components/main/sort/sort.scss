@@ -1,0 +1,30 @@
+.sorting {
+    position: relative;
+}
+.sort_tittle {
+    border: 1px solid;
+    border-radius: 6px;
+    padding: 4px;
+    width: 100%;
+    background-image: url(../../../assets/img/dawn.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: calc(100% - 2px);
+    cursor: pointer;
+}
+.active-sort {
+    background: rgb(37, 218, 165);
+}
+.list-sort {
+    background: white;
+    position: absolute;
+    top: 30px;
+    border: 1px solid;
+    border-radius: 6px;
+    width: 100%;
+    display: none;
+    cursor: pointer;
+}
+.item-sort {
+    padding: 4px;
+}
